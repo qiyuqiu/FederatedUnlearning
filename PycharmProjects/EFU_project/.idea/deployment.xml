@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="3080_lsw">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lsw/ljh" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lijiahao@47.237.21.54:6010 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lijiahao/SFL_unlearn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lijiahao@47.237.21.54:6010 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lijiahao/SFL_unlearn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lijiahao@cn-jn-lt-plustmp1.natfrp.cloud:42235 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lijiahao/SFL_unlearn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lijiahao@cn-jn-lt-plustmp1.natfrp.cloud:42235 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lijiahao/SFL_unlearn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lsw@10.142.3.217:9989 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lsw/ljh" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lsw@10.142.3.217:9989 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lsw/ljh" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lsw@10.142.3.217:9989 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lsw/ljh" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lsw@192.168.50.249:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lsw/ljh" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangzhigangcs@10.16.202.18:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wangzhigangcs/ljh_SL/SFL_unlearn" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="国家实验室">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wangzhigangcs/ljh_SL/SFL_unlearn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="国家实验室18节点">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wangzhigangcs/ljh_SL/SFL_unlearn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="实验室3090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/lijiahao/SFL_unlearn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

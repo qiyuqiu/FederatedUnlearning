@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dda179d1-6ece-4082-bc0b-6225ca5077c7" name="国家实验室18节点">
+        <fileTransfer accessType="SFTP" host="10.16.202.18" port="22" sshConfigId="fb73408b-e799-476d-8fba-293577ac31ec" sshConfig="wangzhigangcs@10.16.202.18:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d7336167-d8d8-4b7a-85da-b58df61ba477" name="3080_lsw">
+        <fileTransfer accessType="SFTP" host="192.168.50.249" port="22" sshConfigId="973b03f7-cd13-41d8-aefc-366fd0f802b5" sshConfig="lsw@192.168.50.249:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
